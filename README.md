@@ -43,11 +43,7 @@
 ### 🐍 Contribution Graph & Snake Game
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eren-54/eren-54/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eren-54/eren-54/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eren-54/eren-54/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/eren-54/eren-54/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 </p>
 
 ---
@@ -55,8 +51,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eren-54&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Eren's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren-54&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eren-54&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Eren's GitHub Stats" />
 </p>
 
 ---
