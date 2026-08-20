@@ -50,15 +50,7 @@
   </picture>
 </p>
 
----
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eren-54&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Eren's GitHub Stats" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
